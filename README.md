@@ -1,5 +1,9 @@
 # Hi there, I'm Phạm Văn Thuận 👋
 
+
+<a href="https://app.daily.dev/ginn"><img src="https://api.daily.dev/devcards/2d0522d6e10542f39149d3ed8cb41543.png?r=sr3" width="400" alt="Phạm Văn Thuận's Dev Card"/></a>
+
+---
 ## 🚀 Frontend Developer
 
 I'm a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, TypeScript, and frameworks like ReactJS and NextJS. I follow best practices in coding, testing, and deployment, and enjoy building clean, user-focused web interfaces.
@@ -51,10 +55,6 @@ I'm a Frontend Developer with hands-on experience in HTML, CSS, JavaScript, Type
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginn1111&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ginn1111&theme=radical)
-
 ## 📌 Featured Projects
 
 ### 🛒 [Medusa E-commerce Platform](https://github.com/ginn1111/medusa-storefront)
@@ -95,4 +95,3 @@ Personal development environment configuration and automation scripts
 ![Profile Views](https://komarev.com/ghpvc/?username=ginn1111&color=blueviolet&style=flat-square)
 
 
-<a href="https://app.daily.dev/ginn"><img src="https://api.daily.dev/devcards/2d0522d6e10542f39149d3ed8cb41543.png?r=sr3" width="400" alt="Phạm Văn Thuận's Dev Card"/></a>
